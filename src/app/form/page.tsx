@@ -28,7 +28,7 @@ export default async function Form() {
 				<button
 					type='submit'
 					className='border border-orange-500 py-2 rounded-md text-orange-500 hover:bg-orange-500 hover:text-white transition-colors'>
-					Submit
+					Submit form
 				</button>
 			</form>
 		</div>
